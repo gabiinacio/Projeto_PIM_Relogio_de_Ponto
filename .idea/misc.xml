@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Osvaldo 3.0 Robot/Desktop/Unip 4 Semestre/PIM/RelogiodePonto/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Osvaldo 3.0 Robot/Desktop/Unip 4 Semestre/PIM/RelogiodePonto/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Osvaldo 3.0 Robot/Desktop/Unip 4 Semestre/PIM/RelogiodePonto/app/src/main/res/layout/activity_relogio_ponto.xml" value="0.22" />
+        <entry key="..\:/Users/Osvaldo 3.0 Robot/Desktop/Unip 4 Semestre/PIM/RelogiodePonto/app/src/main/res/layout/relogiodeponto.xml" value="0.203125" />
       </map>
     </option>
   </component>
