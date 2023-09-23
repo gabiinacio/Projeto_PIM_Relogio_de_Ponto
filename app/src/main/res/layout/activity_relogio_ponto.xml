@@ -46,7 +46,8 @@
             android:layout_gravity="center"
             android:background="#4673A3"
             android:text="Marcar Ponto"
-            android:textColor="#CDE5FF" />
+            android:textColor="#CDE5FF"
+            tools:ignore="TextContrastCheck" />
 
     </LinearLayout>
 </android.support.constraint.ConstraintLayout>

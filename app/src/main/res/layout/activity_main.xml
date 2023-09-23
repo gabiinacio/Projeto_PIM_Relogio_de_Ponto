@@ -45,7 +45,7 @@
             android:textColor="#FFFFFF"
             android:textColorHint="#FFFFFF"
             android:textColorLink="#090101"
-            tools:ignore="TouchTargetSizeCheck" />
+            tools:ignore="TouchTargetSizeCheck,SpeakableTextPresentCheck" />
 
         <TextView
             android:id="@+id/txvSenha"
@@ -65,7 +65,7 @@
             android:inputType="textPassword"
             android:password="true"
             android:text=""
-            tools:ignore="TouchTargetSizeCheck" />
+            tools:ignore="TouchTargetSizeCheck,SpeakableTextPresentCheck" />
 
         <Button
             android:id="@+id/btnEntrar"
